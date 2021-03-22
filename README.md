@@ -1,6 +1,7 @@
 # PreGame
 Nazwa projektu: PreGame
-![Alt text](https://ibb.co/fpHcsh0 "Optional title")
+![Alt text](PreGame/163228825_535773737392946_5838774267161173_n.png "Optional Title")
+
 
 
 
