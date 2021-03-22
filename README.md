@@ -1,6 +1,7 @@
 # PreGame
 Nazwa projektu: PreGame
-![alt text](https://ibb.co/fpHcsh0)
+![Alt text](https://ibb.co/fpHcsh0 "Optional title")
+
 
 
 Opis: Gra strategiczna przeglądarkowa w której gracze rywalizują między sobą o jak największą ilość punktów rozwoju i punktów walki. Mogą również podbijać wioski innych graczy, albo wysyłać do nich wsparcie w postaci wojsk.
